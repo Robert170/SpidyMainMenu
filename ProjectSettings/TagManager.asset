@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spidy
+  - Manager
+  - Exit1
+  - Exit2
+  - LifeBar
+  - Floor
+  - Treadmill
+  - Treadmill2
+  - WildCard
+  - WildCard2
+  - Boss
+  - CardScene0_5
+  - WallRocks
+  - Fighter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Friendly
+  - Enemy
+  - Detector
+  - Wall
+  - PlayerBlocker
+  - Exit1
+  - Exit2
+  - Money
+  - Defense
+  - WildCard
+  - WildCard2
+  - HealthBar
+  - WallBattleEvent
+  - CardScene0_5
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 1254168847
+    locked: 0
+  - name: Layer 2
+    uniqueID: 731671071
+    locked: 0
+  - name: Layer 3
+    uniqueID: 818451301
+    locked: 0
+  - name: Layer 4
+    uniqueID: 1890519765
+    locked: 0
+  - name: Layer 5
+    uniqueID: 3615834881
+    locked: 0

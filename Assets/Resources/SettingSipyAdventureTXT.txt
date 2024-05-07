@@ -1,0 +1,22 @@
+---SETTINGS
+VFX 33
+Music 0
+Voice 67
+Resolution 2
+Lenguage 1
+Subtitles 0
+Vibration 0
+Hints 0
+EnemiesLifeBar 0
+---CONTROLS
+Attack w
+HeavyAttack q
+Kick a
+Berserker t
+Run g
+Jump f
+Up UpArrow
+Down DownArrow
+Left LeftArrow
+Right RightArrow
+---FILES

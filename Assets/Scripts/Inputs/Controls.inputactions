@@ -1,0 +1,35 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "GameInputs",
+            "id": "7b4df484-cc62-4082-bb06-c0ce951b6af6",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Kayboard",
+            "bindingGroup": "Kayboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Gamepad",
+            "bindingGroup": "Gamepad",
+            "devices": [
+                {
+                    "devicePath": "<Gamepad>",
+                    "isOptional": true,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
